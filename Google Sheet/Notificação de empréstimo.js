@@ -1,7 +1,8 @@
 
 
-//========================================================================================================================================
-//Essa função encaminha o E-mail para coloborador ou terceiro notificando que ele retitou um crachá provisório por motivo de ESQUECIMENTO.
+//==================================================================================================================================
+//Essa função encaminha o E-mail para coloborador ou terceiro notificando que ele retitou um crachá provisório por motivo de 
+//ESQUECIMENTO.
 //========================================================================================================================================
 function sendMail_esquecimento(rng) {
 
